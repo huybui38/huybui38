@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!+I'm+Bui+Ngoc+Huy)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:huybui479@gmail.com)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/huy-ngoc-43b1911a0/)]
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/huy-ngoc-43b1911a0/)](https://www.linkedin.com/in/huy-ngoc-43b1911a0/)
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
 ### I'M currently
