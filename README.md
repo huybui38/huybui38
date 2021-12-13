@@ -4,13 +4,14 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/huy-ngoc-43b1911a0/)](https://www.linkedin.com/in/huy-ngoc-43b1911a0/)
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
-### 🧐 I'M currently
+
+<h3 align="left">🧐 I'M currently</h3>
 - 🎒 studying at FPT University.
 - 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`.
 - 🌱 learning .NET
 
-### 🔨 Favorite Tech 
 
+<h3 align="left">🔨 Favorite Tech </h3>
 
 <h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">&nbsp;&nbsp;Github stats</h3>
 
