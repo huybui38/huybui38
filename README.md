@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
 
-<h3 align="left">🧐 I'M currently</h3>
+<h3 align="left">🧐 I'm currently</h3>
 - 🎒 studying at FPT University.
 - 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`.
 - 🌱 learning .NET
 
 
-<h3 align="left">🔨 Favorite Tech </h3>
+<h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">Favorite Tech </h3>
 
 <h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">Github stats</h3>
 
