@@ -8,8 +8,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/huybui38/huybui38/main/coding.gif" width="360px"/>
 <h3 align="left">🧐 I'm currently</h3>
 
-- 🎒 studying at FPT University.
-- 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`.
+- 🎒 studying at FPT University
+- 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`
 - 🌱 learning .NET
 
 
