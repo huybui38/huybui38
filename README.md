@@ -6,6 +6,7 @@
 
 
 <h3 align="left">🧐 I'm currently</h3>
+
 - 🎒 studying at FPT University.
 - 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`.
 - 🌱 learning .NET
