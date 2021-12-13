@@ -15,6 +15,7 @@
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">Favorite Tech </h3>
 
 <h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">Github stats</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huybui38)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **huybui38/huybui38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
