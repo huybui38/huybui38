@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/huy-ngoc-43b1911a0/)](https://www.linkedin.com/in/huy-ngoc-43b1911a0/)
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <h3 align="left">🧐 I'm currently</h3>
 
 - 🎒 studying at FPT University.
