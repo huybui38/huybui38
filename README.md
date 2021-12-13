@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/huy-ngoc-43b1911a0/)](https://www.linkedin.com/in/huy-ngoc-43b1911a0/)
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
-### I'M currently
+### 🧐 I'M currently
 - 🎒 studying at FPT University.
 - 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`.
 - 🌱 learning .NET
@@ -12,7 +12,7 @@
 ### 🔨 Favorite Tech 
 
 
-### Github Stats
+### 🔥 Github Stats
 
 <!--
 **huybui38/huybui38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
