@@ -13,7 +13,7 @@
 
 <h3 align="left">🔨 Favorite Tech </h3>
 
-<h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">&nbsp;&nbsp;Github stats</h3>
+<h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">Github stats</h3>
 
 <!--
 **huybui38/huybui38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
