@@ -6,11 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=huybui38)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/huybui38/huybui38/main/coding.gif" width="360px"/>
-<h3 align="left">🧐 I'm currently</h3>
-
-- 🎒 studying at FPT University
-- 📚 working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president`
-- 🌱 learning .NET
 
 
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">Favorite Tech </h3>
